@@ -1,0 +1,222 @@
+[
+  {
+    "Title": "Understanding Common Dog Diseases: Prevention and Care",
+    "Category Page": "Pet Health",
+    "Category": "Dogs",
+    "category color": "#E63946",
+    "Date": "2025-12-15",
+    "Read time": "8 min",
+    "Image url": "https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=800&auto=format&fit=crop",
+    "description": "A comprehensive guide to identifying early symptoms of canine ailments and preventive measures.",
+    "Expert": "Dr. Sarah Jenkins, DVM"
+  },
+  {
+    "Title": "Feline Dental Health: Why Your Cat Needs Brushing",
+    "Category Page": "Pet Health",
+    "Category": "Cats",
+    "category color": "#457B9D",
+    "Date": "2025-12-16",
+    "Read time": "5 min",
+    "Image url": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?q=80&w=800&auto=format&fit=crop",
+    "description": "Preventing periodontal disease in cats through home care and professional cleanings.",
+    "Expert": "Dr. Mark Holloway"
+  },
+  {
+    "Title": "Hamster Respiratory Care: Identifying the Signs",
+    "Category Page": "Pet Health",
+    "Category": "Small Mammals",
+    "category color": "#2A9D8F",
+    "Date": "2025-12-17",
+    "Read time": "6 min",
+    "Image url": "https://images.unsplash.com/photo-1425082661705-1834bfd09dca?q=80&w=800&auto=format&fit=crop",
+    "description": "How to detect wheezing and breathing difficulties in small rodents early on.",
+    "Expert": "Dr. Robert Chen"
+  },
+  {
+    "Title": "Hip Dysplasia in Golden Retrievers: A Guide",
+    "Category Page": "Pet Health",
+    "Category": "Dogs",
+    "category color": "#E63946",
+    "Date": "2025-12-18",
+    "Read time": "10 min",
+    "Image url": "https://images.unsplash.com/photo-1552053831-71594a27632d?q=80&w=800&auto=format&fit=crop",
+    "description": "Managing mobility and pain for large breed dogs prone to joint issues.",
+    "Expert": "Dr. Sarah Jenkins, DVM"
+  },
+  {
+    "Title": "Rabbit Digestive Health: The Importance of GI Motility",
+    "Category Page": "Pet Health",
+    "Category": "Small Mammals",
+    "category color": "#2A9D8F",
+    "Date": "2025-12-19",
+    "Read time": "7 min",
+    "Image url": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?q=80&w=800&auto=format&fit=crop",
+    "description": "Understanding GI Stasis and how high-fiber diets keep your bunny healthy.",
+    "Expert": "Dr. Emily Sage"
+  },
+  {
+    "Title": "The Secret to High Egg Production in Backyard Chickens",
+    "Category Page": "Poultry Healths",
+    "Category": "Chickens",
+    "category color": "#FFB703",
+    "Date": "2025-12-20",
+    "Read time": "6 min",
+    "Image url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?q=80&w=800&auto=format&fit=crop",
+    "description": "Optimizing lighting and calcium intake for a consistent egg-laying cycle.",
+    "Expert": "Dr. Alan Grant"
+  },
+  {
+    "Title": "Keeping Your Ducks Hydrated: Water Management Tips",
+    "Category Page": "Poultry Healths",
+    "Category": "Ducks",
+    "category color": "#FB8500",
+    "Date": "2025-12-21",
+    "Read time": "5 min",
+    "Image url": "https://images.unsplash.com/photo-1555854816-1bb41358c8a1?q=80&w=800&auto=format&fit=crop",
+    "description": "Why clean bill-dunking water is critical for duck respiratory health.",
+    "Expert": "Dr. Alan Grant"
+  },
+  {
+    "Title": "Turkey Blackhead Disease: Symptoms and Prevention",
+    "Category Page": "Poultry Healths",
+    "Category": "Turkeys",
+    "category color": "#8D99AE",
+    "Date": "2025-12-22",
+    "Read time": "9 min",
+    "Image url": "https://images.unsplash.com/photo-1518931223402-4740795df9bc?q=80&w=800&auto=format&fit=crop",
+    "description": "Protecting your turkey flock from Histomoniasis through soil management.",
+    "Expert": "Dr. Linda Porter"
+  },
+  {
+    "Title": "Avian Influenza Outbreak Protocols for Small Farms",
+    "Category Page": "Poultry Healths",
+    "Category": "Disease Management",
+    "category color": "#D90429",
+    "Date": "2025-12-23",
+    "Read time": "11 min",
+    "Image url": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=800&auto=format&fit=crop",
+    "description": "Biosecurity measures to take during high-risk seasons to protect your birds.",
+    "Expert": "Dr. Linda Porter"
+  },
+  {
+    "Title": "Feather Pecking: Behavioral or Nutritional?",
+    "Category Page": "Poultry Healths",
+    "Category": "Chickens",
+    "category color": "#FFB703",
+    "Date": "2025-12-24",
+    "Read time": "7 min",
+    "Image url": "https://images.unsplash.com/photo-1598935888738-cd2622bcd437?q=80&w=800&auto=format&fit=crop",
+    "description": "Managing flock dynamics and protein levels to reduce aggressive pecking.",
+    "Expert": "Dr. Alan Grant"
+  },
+  {
+    "Title": "Grain-Free Diets for Dogs: The Heart Health Link",
+    "Category Page": "Nutrition",
+    "Category": "Pet Nutrition",
+    "category color": "#606C38",
+    "Date": "2025-12-25",
+    "Read time": "8 min",
+    "Image url": "https://images.unsplash.com/photo-1589924691106-073b69a59b8b?q=80&w=800&auto=format&fit=crop",
+    "description": "Analyzing the FDA findings on DCM and how to choose the safest kibble.",
+    "Expert": "Dr. Mark Holloway"
+  },
+  {
+    "Title": "The Role of Methionine in Poultry Growth",
+    "Category Page": "Nutrition",
+    "Category": "Poultry Nutrition",
+    "category color": "#283618",
+    "Date": "2025-12-26",
+    "Read time": "9 min",
+    "Image url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?q=80&w=800&auto=format&fit=crop",
+    "description": "A technical look at amino acid balancing for commercial-grade broiler growth.",
+    "Expert": "Dr. Linda Porter"
+  },
+  {
+    "Title": "Probiotics for Cats: Do They Really Work?",
+    "Category Page": "Nutrition",
+    "Category": "Pet Nutrition",
+    "category color": "#606C38",
+    "Date": "2025-12-26",
+    "Read time": "5 min",
+    "Image url": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?q=80&w=800&auto=format&fit=crop",
+    "description": "Boosting feline immune systems through gut health and beneficial bacteria.",
+    "Expert": "Dr. Emily Sage"
+  },
+  {
+    "Title": "Corn vs. Soy: Comparing Poultry Feed Bases",
+    "Category Page": "Nutrition",
+    "Category": "Poultry Nutrition",
+    "category color": "#283618",
+    "Date": "2025-12-27",
+    "Read time": "10 min",
+    "Image url": "https://images.unsplash.com/photo-1527672809634-04ed36500acd?q=80&w=800&auto=format&fit=crop",
+    "description": "Which energy source provides the best ROI for small-scale poultry farms?",
+    "Expert": "Dr. Alan Grant"
+  },
+  {
+    "Title": "Raw Food Diets: Risks and Benefits Explained",
+    "Category Page": "Nutrition",
+    "Category": "Pet Nutrition",
+    "category color": "#606C38",
+    "Date": "2025-12-27",
+    "Read time": "12 min",
+    "Image url": "https://images.unsplash.com/photo-1544436486-c7441b99a687?q=80&w=800&auto=format&fit=crop",
+    "description": "A balanced perspective on the raw feeding trend for modern pet owners.",
+    "Expert": "Dr. Sarah Jenkins, DVM"
+  },
+  {
+    "Title": "Finding the Right Avian Specialist Near You",
+    "Category Page": "Reaearch",
+    "Category": "Vet Finder",
+    "category color": "#8338EC",
+    "Date": "2025-12-28",
+    "Read time": "4 min",
+    "Image url": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?q=80&w=800&auto=format&fit=crop",
+    "description": "How to verify vet certifications and find clinics specializing in exotic birds.",
+    "Expert": "Dr. Emily Sage"
+  },
+  {
+    "Title": "Meloxicam Dosage and Side Effects in Dogs",
+    "Category Page": "Reaearch",
+    "Category": "Drug Index",
+    "category color": "#3A86FF",
+    "Date": "2025-12-28",
+    "Read time": "15 min",
+    "Image url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?q=80&w=800&auto=format&fit=crop",
+    "description": "Clinical reference guide for non-steroidal anti-inflammatory drug use in pets.",
+    "Expert": "Dr. Mark Holloway"
+  },
+  {
+    "Title": "Emergency Vets: What to Look for in a 24-Hour Clinic",
+    "Category Page": "Reaearch",
+    "Category": "Vet Finder",
+    "category color": "#8338EC",
+    "Date": "2025-12-28",
+    "Read time": "6 min",
+    "Image url": "https://images.unsplash.com/photo-1532938911079-1b06ac7ceec7?q=80&w=800&auto=format&fit=crop",
+    "description": "Key criteria for evaluating urgent care facilities during a pet crisis.",
+    "Expert": "Dr. Sarah Jenkins, DVM"
+  },
+  {
+    "Title": "Apoquel for Allergy Management: Research Review",
+    "Category Page": "Reaearch",
+    "Category": "Drug Index",
+    "category color": "#3A86FF",
+    "Date": "2025-12-29",
+    "Read time": "13 min",
+    "Image url": "https://images.unsplash.com/photo-1626450531061-f3b6088e89f6?q=80&w=800&auto=format&fit=crop",
+    "description": "A deep dive into Janus kinase inhibitors for treating atopic dermatitis.",
+    "Expert": "Dr. Robert Chen"
+  },
+  {
+    "Title": "Interactive Map: Veterinary Clinics for Livestock",
+    "Category Page": "Reaearch",
+    "Category": "Vet Finder",
+    "category color": "#8338EC",
+    "Date": "2025-12-30",
+    "Read time": "5 min",
+    "Image url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=800&auto=format&fit=crop",
+    "description": "Using our database to locate mobile large-animal veterinarians in rural areas.",
+    "Expert": "Dr. Alan Grant"
+  }
+]
