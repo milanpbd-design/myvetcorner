@@ -99,7 +99,7 @@
       "category": "Pet Health",
       "subcategory": "Cats",
       "expert_author": {
-        "name": "Prabash ",
+        "name": "Prabash",
         "profile_url": "#"
       },
       "read_time": "5 min read",
@@ -108,7 +108,7 @@
     },
     "content": {
       "format": "html",
-      "body": "<p>HOW </p>"
+      "body": "<h2><b><i><font face=\"Arial\">dd</font></i></b></h2>"
     }
   },
   "articles": [
@@ -118,7 +118,7 @@
         "category": "Pet Health",
         "subcategory": "Cats",
         "expert_author": {
-          "name": "Prabash ",
+          "name": "Prabash",
           "profile_url": "#"
         },
         "read_time": "5 min read",
@@ -127,7 +127,7 @@
       },
       "content": {
         "format": "html",
-        "body": "<p>HOW </p>"
+        "body": "<h2><b><i><font face=\"Arial\">dd</font></i></b></h2>"
       }
     },
     {
