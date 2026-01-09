@@ -117,15 +117,11 @@
         "category": "Pet Health",
         "subcategory": "Dogs",
         "expert_author": {
-          "name": "Prabash",
-          "profile_url": "#"
+          "name": "Prabash"
         },
-        "read_time": "",
-        "label_color": "#000000",
-        "featured_image_url": ""
+        "featured_image_url": "https://auth.hostinger.com/assets/images/oauth/google.svg"
       },
       "content": {
-        "format": "html",
         "body": "<font size=\"5\">hhhhhhhhh</font>"
       }
     }
