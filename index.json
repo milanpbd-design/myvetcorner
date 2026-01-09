@@ -92,42 +92,6 @@
       }
     ]
   },
-  "article_data": {
-    "title": "Prabash Sapkota",
-    "meta_info": {
-      "category": "Nutrition",
-      "subcategory": "Pet Nutrition",
-      "expert_author": {
-        "name": "Prabash",
-        "profile_url": "#"
-      },
-      "read_time": "5 min read",
-      "label_color": "#07456e",
-      "featured_image_url": "https://media.licdn.com/dms/image/v2/C5103AQEXTaxpJNL-MA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585888618070?e=2147483647&v=beta&t=MD8NGX6p5IIg4uLCZ2lm4As9yR4KjC_MdvbTG8zs4DI"
-    },
-    "content": {
-      "format": "html",
-      "body": "<h2 style=\"text-align: center;\"><font face=\"Arial\" style=\"font-style: italic;\">sss</font><font face=\"Plus Jakarta Sans\" style=\"font-style: italic;\">s</font><font face=\"Georgia\" style=\"font-style: italic;\">s</font><font face=\"Courier New\" style=\"\"><i>s</i><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"font-style: italic;\">s</font><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"\"><i>s</i><b style=\"\"><i>s</i>s<u>s<strike>s<sub>ss</sub><sup>ss</sup></strike></u></b></font></font></h2>"
-    }
-  },
-  "articles": [
-    {
-      "title": "Prabash Sapkota",
-      "meta_info": {
-        "category": "Nutrition",
-        "subcategory": "Pet Nutrition",
-        "expert_author": {
-          "name": "Prabash",
-          "profile_url": "#"
-        },
-        "read_time": "5 min read",
-        "label_color": "#07456e",
-        "featured_image_url": "https://media.licdn.com/dms/image/v2/C5103AQEXTaxpJNL-MA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585888618070?e=2147483647&v=beta&t=MD8NGX6p5IIg4uLCZ2lm4As9yR4KjC_MdvbTG8zs4DI"
-      },
-      "content": {
-        "format": "html",
-        "body": "<h2 style=\"text-align: center;\"><font face=\"Arial\" style=\"font-style: italic;\">sss</font><font face=\"Plus Jakarta Sans\" style=\"font-style: italic;\">s</font><font face=\"Georgia\" style=\"font-style: italic;\">s</font><font face=\"Courier New\" style=\"\"><i>s</i><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"font-style: italic;\">s</font><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"\"><i>s</i><b style=\"\"><i>s</i>s<u>s<strike>s<sub>ss</sub><sup>ss</sup></strike></u></b></font></font></h2>"
-      }
-    }
-  ]
+  "article_data": null,
+  "articles": []
 }
