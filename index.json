@@ -107,7 +107,7 @@
     },
     "content": {
       "format": "html",
-      "body": "<h2><i style=\"\"><font face=\"Arial\" style=\"\">dd</font></i></h2>"
+      "body": "<h2 style=\"text-align: center;\"><font face=\"Arial\" style=\"font-style: italic;\">sss</font><font face=\"Plus Jakarta Sans\" style=\"font-style: italic;\">s</font><font face=\"Georgia\" style=\"font-style: italic;\">s</font><font face=\"Courier New\" style=\"\"><i>s</i><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"font-style: italic;\">s</font><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"\"><i>s</i><b style=\"\"><i>s</i>s<u>s<strike>s<sub>ss</sub><sup>ss</sup></strike></u></b></font></font></h2>"
     }
   },
   "articles": [
@@ -126,7 +126,7 @@
       },
       "content": {
         "format": "html",
-        "body": "<h2><i style=\"\"><font face=\"Arial\" style=\"\">dd</font></i></h2>"
+        "body": "<h2 style=\"text-align: center;\"><font face=\"Arial\" style=\"font-style: italic;\">sss</font><font face=\"Plus Jakarta Sans\" style=\"font-style: italic;\">s</font><font face=\"Georgia\" style=\"font-style: italic;\">s</font><font face=\"Courier New\" style=\"\"><i>s</i><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"font-style: italic;\">s</font><font size=\"1\" style=\"font-style: italic;\">ss</font><font size=\"5\" style=\"\"><i>s</i><b style=\"\"><i>s</i>s<u>s<strike>s<sub>ss</sub><sup>ss</sup></strike></u></b></font></font></h2>"
       }
     }
   ]
