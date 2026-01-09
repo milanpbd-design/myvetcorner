@@ -94,7 +94,7 @@
     ]
   },
   "article_data": {
-    "title": "Prabash",
+    "title": "Prabash Sapkota",
     "meta_info": {
       "category": "Pet Health",
       "subcategory": "Cats",
@@ -108,12 +108,12 @@
     },
     "content": {
       "format": "html",
-      "body": "hello my name is prabash sapkota . myself prabash and prabash "
+      "body": "<p>hello my name is prabash sapkota . myself prabash and prabash</p>"
     }
   },
   "articles": [
     {
-      "title": "Prabash",
+      "title": "Prabash Sapkota",
       "meta_info": {
         "category": "Pet Health",
         "subcategory": "Cats",
@@ -127,7 +127,7 @@
       },
       "content": {
         "format": "html",
-        "body": "hello my name is prabash sapkota . myself prabash and prabash "
+        "body": "<p>hello my name is prabash sapkota . myself prabash and prabash</p>"
       }
     },
     {
