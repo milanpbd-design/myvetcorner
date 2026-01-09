@@ -7,9 +7,21 @@
         "name": "Pet Health",
         "slug": "pet-health",
         "subcategories": [
-          { "id": "sub_001", "name": "Dogs", "slug": "dogs" },
-          { "id": "sub_002", "name": "Cats", "slug": "cats" },
-          { "id": "sub_003", "name": "Small Mammals", "slug": "small-mammals" }
+          {
+            "id": "sub_001",
+            "name": "Dogs",
+            "slug": "dogs"
+          },
+          {
+            "id": "sub_002",
+            "name": "Cats",
+            "slug": "cats"
+          },
+          {
+            "id": "sub_003",
+            "name": "Small Mammals",
+            "slug": "small-mammals"
+          }
         ]
       },
       {
@@ -17,10 +29,26 @@
         "name": "Poultry Health",
         "slug": "poultry-health",
         "subcategories": [
-          { "id": "sub_004", "name": "Chickens", "slug": "chickens" },
-          { "id": "sub_005", "name": "Turkey", "slug": "turkey" },
-          { "id": "sub_006", "name": "Ducks", "slug": "ducks" },
-          { "id": "sub_007", "name": "Disease Management", "slug": "disease-management" }
+          {
+            "id": "sub_004",
+            "name": "Chickens",
+            "slug": "chickens"
+          },
+          {
+            "id": "sub_005",
+            "name": "Turkey",
+            "slug": "turkey"
+          },
+          {
+            "id": "sub_006",
+            "name": "Ducks",
+            "slug": "ducks"
+          },
+          {
+            "id": "sub_007",
+            "name": "Disease Management",
+            "slug": "disease-management"
+          }
         ]
       },
       {
@@ -28,8 +56,16 @@
         "name": "Nutrition",
         "slug": "nutrition",
         "subcategories": [
-          { "id": "sub_008", "name": "Pet Nutrition", "slug": "pet-nutrition" },
-          { "id": "sub_009", "name": "Poultry Nutrition", "slug": "poultry-nutrition" }
+          {
+            "id": "sub_008",
+            "name": "Pet Nutrition",
+            "slug": "pet-nutrition"
+          },
+          {
+            "id": "sub_009",
+            "name": "Poultry Nutrition",
+            "slug": "poultry-nutrition"
+          }
         ]
       },
       {
@@ -43,8 +79,16 @@
         "name": "Resources",
         "slug": "resources",
         "subcategories": [
-          { "id": "sub_010", "name": "Vet Finder", "slug": "vet-finder" },
-          { "id": "sub_011", "name": "Drug Index", "slug": "drug-index" }
+          {
+            "id": "sub_010",
+            "name": "Vet Finder",
+            "slug": "vet-finder"
+          },
+          {
+            "id": "sub_011",
+            "name": "Drug Index",
+            "slug": "drug-index"
+          }
         ]
       }
     ]
@@ -66,5 +110,43 @@
       "format": "html",
       "body": "<h1>Understanding Calcium Needs</h1><p>Calcium is a critical mineral for laying hens, directly impacting eggshell quality and skeletal health...</p>"
     }
-  }
+  },
+  "articles": [
+    {
+      "title": "Optimizing Calcium Intake for Laying Hens",
+      "meta_info": {
+        "category": "Poultry Health",
+        "subcategory": "Chickens",
+        "expert_author": {
+          "name": "Dr. Sarah Bennett, DVM",
+          "profile_url": "/experts/dr-sarah-bennett"
+        },
+        "read_time": "6 min read",
+        "label_color": "#FF5733",
+        "featured_image_url": "https://example.com/images/poultry-calcium-guide.jpg"
+      },
+      "content": {
+        "format": "html",
+        "body": "<h1>Understanding Calcium Needs</h1><p>Calcium is a critical mineral for laying hens, directly impacting eggshell quality and skeletal health...</p>"
+      }
+    },
+    {
+      "title": "Prabash",
+      "meta_info": {
+        "category": "Pet Health",
+        "subcategory": "Cats",
+        "expert_author": {
+          "name": "Prabash ",
+          "profile_url": "#"
+        },
+        "read_time": "5 min read",
+        "label_color": "#3498db",
+        "featured_image_url": "https://media.licdn.com/dms/image/v2/C5103AQEXTaxpJNL-MA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585888618070?e=2147483647&v=beta&t=MD8NGX6p5IIg4uLCZ2lm4As9yR4KjC_MdvbTG8zs4DI"
+      },
+      "content": {
+        "format": "html",
+        "body": "hello my name is prabash sapkota . myself prabash and prabash "
+      }
+    }
+  ]
 }
