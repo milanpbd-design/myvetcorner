@@ -1,6 +1,5 @@
 {
   "site_navigation": {
-    "description": "Category and Subcategory structure for the site sidebar or menu",
     "categories": [
       {
         "id": "cat_001",
@@ -128,24 +127,6 @@
       "content": {
         "format": "html",
         "body": "<h2><i style=\"\"><font face=\"Arial\" style=\"\">dd</font></i></h2>"
-      }
-    },
-    {
-      "title": "Hello",
-      "meta_info": {
-        "category": "Pet Health",
-        "subcategory": "Dogs",
-        "expert_author": {
-          "name": "Veterinary Expert",
-          "profile_url": "#"
-        },
-        "read_time": "",
-        "label_color": "#000000",
-        "featured_image_url": ""
-      },
-      "content": {
-        "format": "html",
-        "body": "Start writing..."
       }
     }
   ]
